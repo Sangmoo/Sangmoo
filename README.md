@@ -2,10 +2,7 @@
 
 I'm Sangmoo, 28 years old and majoring in Computer Science.
 
-<div>
-<img src="![Sangmoo github stats](https://github-readme-stats.vercel.app/api?username=sangmoo&show_icons=true&theme=tokyonight)" height="125">
-</a>
-</div>
+![Sangmoo github stats](https://github-readme-stats.vercel.app/api?username=sangmoo&show_icons=true&theme=tokyonight)
 
 
 <!--
