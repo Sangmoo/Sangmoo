@@ -3,7 +3,7 @@
 I'm Sangmoo, 28 years old and majoring in Computer Science.
 
 ![Sangmoo github stats](https://github-readme-stats.vercel.app/api?username=sangmoo&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sangmoo&langs_count=8)](https://github.com/sangmoo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sangmoo&langs_count=5&theme=tokyonight)](https://github.com/sangmoo/github-readme-stats)
 
 <!--
 **Sangmoo/Sangmoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
