@@ -14,7 +14,10 @@ I'm Sangmoo, 28 years old and majoring in Computer Science.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 <a href="https://github.com/sangmoo/github-readme-stats">
+  <!--
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sangmoo&show_icons=true&include_all_commits=true&theme=tokyonight" alt="sangmoo github stats" />
+  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sangmoo&show_icons=true&theme=tokyonight" alt="sangmoo github stats" />
 </a>
 <a href="https://github.com/sangmoo/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
