@@ -3,7 +3,7 @@
 I'm Sangmoo, 28 years old and majoring in Computer Science.
 
 - 🔭 I’m currently working on DaeHyun (Data processing room)
-- 🌱 I’m currently learning GraphQL & TS & PSQL
+- 🌱 I’m currently learning GraphQL & TS & PSQL & Nest
 
 **Languages and Tools:**  
 
