@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-I'm Sangmoo, 29 years old & majoring in Computer Science.
+I'm Sangmoo, 30 years old & majoring in Computer Science.
 
 - 🔭 I’m currently working on DaeHyun (Data processing room)
-- 🌱 I’m currently learning GraphQL & TS & NestJS
+- 🌱 I’m currently learning React
 
 **Languages and Tools:**  
 
