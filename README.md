@@ -1,9 +1,8 @@
 ## Hi there 👋
 
-I'm Sangmoo, 30 years old & majoring in Computer Science.
+I'm Sangmoo, majoring in Computer Science.
 
-- 🔭 I’m currently working on DaeHyun (Data processing room)
-- 🌱 I’m currently learning React
+- 🔭 I’m currently working on Tribons (Online Platform Team)
 
 **Languages and Tools:**  
 
