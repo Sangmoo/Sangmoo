@@ -2,8 +2,9 @@
 
 I'm Sangmoo, majoring in Computer Science.
 
-- 🔭 I’m currently working on HY (Information Operations Team)
+- 🔭 I’m currently working on IndongFN (Information Operations Team)
 
+<!--  
 **Languages and Tools:**  
 <code><img alt="Java" width="27" height="27" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png"></code>
 <code><img alt="Spring" width="27" height="27" src="https://raw.githubusercontent.com/github/explore/master/topics/spring/spring.png"></code>
@@ -18,7 +19,7 @@ I'm Sangmoo, majoring in Computer Science.
 <code><img alt="Javascript" width="27" height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img alt="React" width="27" height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img alt="Nodejs" width="27" height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
-
+-->
 
 <p align="center">
   <img src="https://media.giphy.com/media/h3u7w8BR07IHDsnzQw/giphy.gif" width="300" height="300">
